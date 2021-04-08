@@ -35,3 +35,16 @@ input {
     border: solid rgb(148,196,125);
     width: 320px;
 }
+
+.deleteElement {
+    color: rgb(255,172,70);
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.X {
+    background-color: red;
+    color: white;
+    font-size: 13px;
+    width: 50px;
+}
